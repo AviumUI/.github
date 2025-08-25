@@ -4,6 +4,7 @@
 <h3 align="center">Sunward wings etch freedom on the dawn.</h3>
 
 ---
+**English** | [CN](README_CN.md) 
 
 > ### Refined Android Experience
 
