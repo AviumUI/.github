@@ -12,12 +12,15 @@
 ##  ✨  不断更新
 
 - **本质保留**：在优化体验的同时维护Android的核心体验
-- **目标驱动增强**：仅添加 **目标驱动功能+**：励志打造出”本地化+++“的体验
+- **便利强化**：不断改进 **强化体验+**：励志打造出”本地化+++“的独一档内容
 
 ##  📥  Get it！
 
 ### 支持设备：
 - Pixel 4 (flame)
+- OnePlus 13r/ace5 (giulia)
+- Xiaomi 10s (thyme)
+- Redmi K60 (mondrian) 
 - *更多设备即将支持*
 
 ### 从源码构建(W.I.P)：
@@ -25,5 +28,5 @@
 repo init -u https://github.com/AviumUI/android_manifest.git -b avium-15
 repo sync -c -j$(nproc --all)
 source build/envsetup.sh
-lunch avium_{device_codename}-userdebug
+lunch avium_{device_codename}-bp1a-userdebug
 m updatepackage
