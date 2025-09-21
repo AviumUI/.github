@@ -19,6 +19,9 @@
 
 ### Supported Devices:
 - Pixel 4 (flame)
+- OnePlus 13r/ace5 (giulia)
+- Xiaomi 10s (thyme)
+- Redmi K60 (mondrian) 
 - *More devices coming soon*
 
 ### Build from Source:
