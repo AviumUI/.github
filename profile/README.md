@@ -25,9 +25,4 @@
 - *More devices coming soon*
 
 ### Build from Source:
-```bash
-repo init -u https://github.com/AviumUI/android_manifest.git -b avium-15
-repo sync -c -j$(nproc --all)
-source build/envsetup.sh
-lunch avium_{device_codename}-userdebug
-m updatepackage
+*You Can Click this* [Manifest](https://github.com/AviumUI/android_manifests) to get more.
