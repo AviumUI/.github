@@ -17,16 +17,11 @@
 ##  📥  Get it！
 
 ### 支持设备：
-- Pixel 4 (flame)
-- OnePlus 13r/ace5 (giulia)
-- Xiaomi 10s (thyme)
-- Redmi K60 (mondrian) 
+想办法支持中...
 - *更多设备即将支持*
 
-### 从源码构建(W.I.P)：
-```bash
-repo init -u https://github.com/AviumUI/android_manifest.git -b avium-15
-repo sync -c -j$(nproc --all)
-source build/envsetup.sh
-lunch avium_{device_codename}-bp1a-userdebug
-m updatepackage
+## 你可能需要
+*AviumWebsite*: (AviumUi)[aviumui.org] ~正在施工~
+
+
+*AviumGroup*: 1027244898 ~随时可以加入！！！~
