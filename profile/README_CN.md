@@ -23,10 +23,5 @@
 - Redmi K60 (mondrian) 
 - *更多设备即将支持*
 
-### 从源码构建(W.I.P)：
-```bash
-repo init -u https://github.com/AviumUI/android_manifest.git -b avium-15
-repo sync -c -j$(nproc --all)
-source build/envsetup.sh
-lunch avium_{device_codename}-bp1a-userdebug
-m updatepackage
+### 从源码构建(A16 W.I.P)：
+*你可以点击这里查看更多* [Manifest](https://github.com/AviumUI/android_manifests)
