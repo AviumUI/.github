@@ -18,16 +18,15 @@
 ##  📥 Getting Started
 
 ### Supported Devices:
-- Pixel 4 (flame)
-- OnePlus 13r/ace5 (giulia)
-- Xiaomi 10s (thyme)
-- Redmi K60 (mondrian) 
+sad...
+W.I.P.
 - *More devices coming soon*
 
-### Build from Source:
-```bash
-repo init -u https://github.com/AviumUI/android_manifest.git -b avium-15
-repo sync -c -j$(nproc --all)
-source build/envsetup.sh
-lunch avium_{device_codename}-userdebug
-m updatepackage
+## Maybe you need 
+`our website`[AviumUI](aviumui.org) WIP
+
+`our group`[AviumGroup] WIP.
+
+For CN
+`QQ Group` 
+1027244898
