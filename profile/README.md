@@ -21,6 +21,9 @@
 - ONEPLUS 13R/ace5
 - *More devices coming soon*
 
+### Build from Source:
+*You Can Click this* [Manifest](https://github.com/AviumUI/android_manifests) to get more.
+
 ## Maybe you need 
 `our website`[AviumUI](aviumui.org)
 
