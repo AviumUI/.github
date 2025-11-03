@@ -25,9 +25,9 @@
 *You Can Click this* [Manifest](https://github.com/AviumUI/android_manifests) to get more.
 
 ## Maybe you need 
-`our website`[AviumUI](aviumui.org)
+`our website`[AviumUI](https://aviumui.org)
 
-`our group`[AviumGroup](t.me/AviumUI)
+`our group`[AviumGroup](https://t.me/AviumUI)
 
 For CN
 `QQ Group` 
