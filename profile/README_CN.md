@@ -20,6 +20,9 @@
 - 一加ace5
 - *更多设备即将支持*
 
+### 从源码构建:
+*点击这里了解更多* [Manifest](https://github.com/AviumUI/android_manifests)
+
 ## 你可能需要
 *AviumWebsite*: (AviumUi)[aviumui.org]
 
