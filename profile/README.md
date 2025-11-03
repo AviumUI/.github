@@ -18,14 +18,13 @@
 ##  📥 Getting Started
 
 ### Supported Devices:
-sad...
-W.I.P.
+- ONEPLUS 13R/ace5
 - *More devices coming soon*
 
 ## Maybe you need 
-`our website`[AviumUI](aviumui.org) WIP
+`our website`[AviumUI](aviumui.org)
 
-`our group`[AviumGroup] WIP.
+`our group`[AviumGroup](t.me/AviumUI)
 
 For CN
 `QQ Group` 
