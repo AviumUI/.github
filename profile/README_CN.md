@@ -17,11 +17,11 @@
 ##  📥  Get it！
 
 ### 支持设备：
-想办法支持中...
+- 一加ace5
 - *更多设备即将支持*
 
 ## 你可能需要
-*AviumWebsite*: (AviumUi)[aviumui.org] ~正在施工~
+*AviumWebsite*: (AviumUi)[aviumui.org]
 
 
 *AviumGroup*: 1027244898 ~随时可以加入！！！~
