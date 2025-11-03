@@ -24,7 +24,7 @@
 *点击这里了解更多* [Manifest](https://github.com/AviumUI/android_manifests)
 
 ## 你可能需要
-*AviumWebsite*: (AviumUi)[aviumui.org]
+*AviumWebsite*: [AviumUI](aviumui.org)
 
 
 *AviumGroup*: 1027244898 ~随时可以加入！！！~
