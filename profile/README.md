@@ -16,11 +16,6 @@
 - **Purpose-Driven Enhancements**: Only meaningful additions that solve real user needs
 
 ##  📥 Getting Started
-
-### Supported Devices:
-- ONEPLUS 13R/ace5
-- *More devices coming soon*
-
 ### Build from Source:
 *You Can Click this* [Manifest](https://github.com/AviumUI/android_manifests) to get more.
 
