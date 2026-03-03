@@ -16,8 +16,11 @@
 - **Purpose-Driven Enhancements**: Only meaningful additions that solve real user needs
 
 ##  📥 Getting Started
-### Build from Source:
+## Build from Source:
 *You Can Click this* [Manifest](https://github.com/AviumUI/android_manifests) to get more.
+
+## Contribute:
+[AviumUI Gerrit](https://review.aviumui.org)
 
 ## Maybe you need 
 `our website`[AviumUI](https://aviumui.org)
